@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://femmefatale0770.netlify.app/sitemap.xml
+Sitemap: https://femmefatale07.netlify.app/sitemap.xml
